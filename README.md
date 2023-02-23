@@ -14,7 +14,7 @@
   - Guage chart to show belly button washing frequency
   - A bubble chart to show bacteria cultures per sample
 
-Page to view the dashboard - https://sunianalytics.github.io/BellyButton/
+Page to view and interact with the dashboard - https://sunianalytics.github.io/BellyButton/
 
 Below is a snapshot of the dashboard
 
